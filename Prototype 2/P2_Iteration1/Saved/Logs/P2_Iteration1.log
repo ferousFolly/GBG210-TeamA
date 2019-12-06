@@ -13,6 +13,7 @@ LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 
 LogStats: Stats thread started at 0.281341
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/tiddl.LAPBRO/Desktop/GitHub/GBG210-TeamA/Prototype 2/P2_Iteration1/Intermediate/Config/CoalescedSourceConfigs/Editor.ini]
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
